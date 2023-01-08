@@ -6,8 +6,13 @@ image: '/images/posts/parafrases-div.png'
 ---
 
 Dias de greve de ônibus são o paraíso
+
 Manhãs populosas sem pressa
+
 Sem desencanto sem compromisso
+
 Mais gente mais calor humano mais ar
+
 É pena que nesses dias
+
 Não haja ônibus a circular
