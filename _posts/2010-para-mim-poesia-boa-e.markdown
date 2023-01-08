@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Access main program. Access main security. Access main program grid
+title: para mim poesia boa é [...]
 tags: [parafrases, metalinguísticas]
 image: '/images/posts/parafrases-div.png'
 ---
