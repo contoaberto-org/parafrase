@@ -10,7 +10,7 @@ title:       para•frases
 email:       'Email'
 description: 'Descricao'
 baseurl:     '/parafrases' # The subpath of your site, e.g. /blog
-url:         'https://contoaberto-org.github.io/' # The base hostname & protocol for your site
+url:         'https://contoaberto-org.github.io' # The base hostname & protocol for your site
 twitter:     ''
 github:      ''
 instagram:   ''
