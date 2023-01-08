@@ -1,6 +1,6 @@
 ---
 layout: post
-title: sou daqueles breves cometas [...]
+title: dança
 tags: [parafrases]
 image: '/images/posts/parafrases-div.png'
 ---
