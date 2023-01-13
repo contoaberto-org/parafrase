@@ -2,7 +2,7 @@
 layout: post
 title: Adultério
 tags: [parafrases]
-image: '/images/posts/2.jpg'
+image: '/images/posts/parafrases-div.png'
 ---
 
 A verdade é que vinha de minissaia toda rebolativa.
