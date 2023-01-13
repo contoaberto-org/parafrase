@@ -2,7 +2,7 @@
 layout: post
 title: Vixe
 tags: [parafrases, espirituais]
-image: '/../images/posts/parafrase-div.png'
+image: '/../images/posts/parafrases-div.png'
 ---
 
 no quarto dia, fazendo os rios
