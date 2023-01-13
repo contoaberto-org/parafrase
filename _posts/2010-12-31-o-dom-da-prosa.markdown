@@ -6,4 +6,5 @@ image: '/images/posts/parafrases-div.png'
 ---
 
 o dom da prosa não o tenho
+
 universo o meu empenho
