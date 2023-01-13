@@ -6,9 +6,15 @@ image: '/../images/posts/parafrases-div.png'
 ---
 
 no quarto dia, fazendo os rios
+
 e os mares
+
 lá pelas tantas
+
 disse Brahma:
+
 – Acabou a cerveja! O que será de nós?
+
 – Xiva!
+
         e veio uma tromba d’água
