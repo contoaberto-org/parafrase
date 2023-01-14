@@ -5,8 +5,6 @@ tags: [parafrases]
 image: '/images/posts/parafrases-div.png'
 ---
 
-sou daqueles breves cometas que ora(m)
-
-se extinguem sem deixar rasto
-
+sou daqueles breves cometas que ora(m)<br>
+se extinguem sem deixar rasto<br>
 (uma vez na vida a piscar)
