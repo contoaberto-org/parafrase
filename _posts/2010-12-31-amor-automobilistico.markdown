@@ -9,7 +9,7 @@ Ela se sai bem nas curvas<br>
 Ele desenvolve<br>
 Ela acende o farol<br>
 Ele acelera<br>
-        e ultrapassa o sinal<br>
+      — e ultrapassa o sinal<br>
 
 Ela puxa o freio<br>
 E ele sai cantando pneu
