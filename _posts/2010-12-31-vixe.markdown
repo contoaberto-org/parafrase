@@ -5,16 +5,12 @@ tags: [parafrases, espirituais]
 image: '/../images/posts/parafrases-div.png'
 ---
 
-no quarto dia, fazendo os rios
+no quarto dia, fazendo os rios<br>
+e os mares<br>
+lá pelas tantas<br>
+disse Brahma:<br>
 
-e os mares
-
-lá pelas tantas
-
-disse Brahma:
-
-– Acabou a cerveja! O que será de nós?
-
+– Acabou a cerveja! O que será de nós?<br>
 – Xiva!
 
        e veio uma tromba d’água
