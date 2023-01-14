@@ -1,0 +1,11 @@
+---
+layout: post
+title: Chama
+tags: [parafrases]
+image: '/images/posts/parafrases-div.png'
+---
+Namorados<br>
+No amor a dois<br>
+Não se chamam<br>
+Não se amam<br>
+Se inflamam
