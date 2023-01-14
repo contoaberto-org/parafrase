@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Uma vida perdida
-author: Viktor Chagas
 tags: [parafrases]
 image: '/images/posts/parafrases-div.png'
 ---
