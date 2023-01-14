@@ -4,10 +4,10 @@ title: ♪♫♪♫ [...]
 tags: [parafrases]
 image: '/images/posts/parafrases-div.png'
 ---
-♪♫♪♫
-Há uma nuvem de tags
-fronte aos meus olhos
-Dizendo pra mim que você tem um blog
-E que não demora muito
-a post-a-a-ar
+♪♫♪♫<br>
+Há uma nuvem de tags<br>
+fronte aos meus olhos<br>
+Dizendo pra mim que você tem um blog<br>
+E que não demora muito<br>
+a post-a-a-ar<br>
 ♪♫♪♫
