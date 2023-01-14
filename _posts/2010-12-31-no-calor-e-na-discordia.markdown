@@ -13,8 +13,8 @@ as pessoas parecem feitas de gelo
 
 pedras a derreter.
 
-
-
+&nbsp;
+&nbsp;
 **corolário museológico**
 
 era um museu de cera
