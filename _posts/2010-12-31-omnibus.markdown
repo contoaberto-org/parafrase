@@ -5,14 +5,9 @@ tags: [parafrases, cotidianos]
 image: '/images/posts/parafrases-div.png'
 ---
 
-Dias de greve de ônibus são o paraíso
-
-Manhãs populosas sem pressa
-
-Sem desencanto sem compromisso
-
-Mais gente mais calor humano mais ar
-
-É pena que nesses dias
-
+Dias de greve de ônibus são o paraíso<br>
+Manhãs populosas sem pressa<br>
+Sem desencanto sem compromisso<br>
+Mais gente mais calor humano mais ar<br>
+É pena que nesses dias<br>
 Não haja ônibus a circular
