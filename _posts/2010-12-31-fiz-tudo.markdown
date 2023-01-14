@@ -1,0 +1,8 @@
+---
+layout: post
+title: Fiz tudo [...]
+tags: [parafrases]
+image: '/images/posts/parafrases-div.png'
+---
+Fiz tudo o que estava ao meu alcance,<br>
+agora está em minhas mãos.
