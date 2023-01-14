@@ -8,4 +8,4 @@ image: '/images/posts/parafrases-div.png'
 Manifesta
 — a        ação
 Heterossexuais No ato sexual São
-todos uns assexuados
+frequentemente assexuados
