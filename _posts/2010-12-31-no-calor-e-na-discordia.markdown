@@ -5,20 +5,12 @@ tags: [parafrases, metalinguísticas]
 image: '/images/posts/parafrases-div.png'
 ---
 
-no calor e na discórdia
+no calor e na discórdia<br>
+há dias em que<br>
+as pessoas parecem feitas de gelo<br>
+pedras a derreter.<br>
 
-há dias em que
-
-as pessoas parecem feitas de gelo
-
-pedras a derreter.
-&nbsp;
-&nbsp;
-
-**corolário museológico**
-
-era um museu de cera
-
-por causa do aquecimento global,
-
+**corolário museológico**<br>
+era um museu de cera<br>
+por causa do aquecimento global,<br>
 virou um mar de lama.
