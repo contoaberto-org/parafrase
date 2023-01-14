@@ -1,0 +1,8 @@
+---
+layout: post
+title: maya
+tags: [parafrases, políticas, espirituais]
+image: '/images/posts/parafrases-div.png'
+---
+proibe-se o véu<br>
+mas jamais se questiona o hábito
