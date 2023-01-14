@@ -5,50 +5,38 @@ tags: [parafrases]
 image: '/images/posts/parafrases-div.png'
 ---
 
-Do que me servem meus livros
-
+Do que me servem meus livros<br>
 Nada
 
-Se não os guardo à memória
-
+Se não os guardo à memória<br>
 Nada
 
-Se não os absorvo
-
+Se não os absorvo<br>
 Nada
 
-Do que me servem meus versos
-
+Do que me servem meus versos<br>
 Nada
 
-Se não os leio em voz alta
-
+Se não os leio em voz alta<br>
 Nada
 
-Se não os há quem recite
-
+Se não os há quem recite<br>
 Nada
 
-Do que me serve meu pranto
-
+Do que me serve meu pranto<br>
 Nada
 
-Se não há quem o ouça
-
+Se não há quem o ouça<br>
 Nada
 
-Se não se apagam as mágoas
-
+Se não se apagam as mágoas<br>
 Nada
 
-Do que me sirvo aos meus filhos
-
+Do que me sirvo aos meus filhos<br>
 Nada
 
-Se não os ponho orgulhosos
-
+Se não os ponho orgulhosos<br>
 Nada
 
-Se não os ensino a nadar
-
+Se não os ensino a nadar<br>
 Nada
