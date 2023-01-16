@@ -8,6 +8,6 @@ image: '/images/pages/parafrases_header.png'
 
 **Para&middot;frases** é um projeto de poesias curtas e indisciplinadas, um pequeno conjunto de haicais e textos miúdos, em verso e prosa poética. São poemas vivos, sempre em construção, e que se modificam com o tempo. Alguns até saem andando…
 
-[!/images/pages/parafrases_sinete.png]
+[/images/pages/parafrases_sinete.png]
 
 **KA-AK-KIM** é fulano
