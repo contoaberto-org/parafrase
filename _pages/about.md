@@ -10,4 +10,4 @@ image: '/images/pages/parafrases_header.png'
 
 ![](/images/pages/parafrases_sinete.png)
 
-**KA-AK-KIM** é fulano
+**KA-AK-KIM** é um pseudônimo de *Viktor Chagas*, um esforçado literato.
