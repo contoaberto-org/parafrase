@@ -7,8 +7,8 @@
 
 # Site settings
 title:       para•frases
-email:       'Email'
-description: 'Descricao'
+email:       'viktor@contoaberto.org'
+description: 'poucas palavras, meias palavras'
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'http://parafrases.contoaberto.org' # The base hostname & protocol for your site
 twitter:     ''
